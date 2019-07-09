@@ -106,7 +106,7 @@ class TodoListState extends State<TodoList> {
           )
         ],
       ),
-      backgroundColor: Color.fromRGBO(243, 156, 18, 1.0),
+      backgroundColor: Color.fromRGBO(255, 255, 255, 1.0),
       body: ListView.builder(
         itemBuilder: buildItem,
         itemCount: todos.length,
