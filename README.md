@@ -1,3 +1,6 @@
+# Flutter TODO List App
+Simple TODO list app made with flutter.
+
 [![Build Status][build-shield]][build-url]
 [![Contributors][contributors-shield]][contributors-url]
 [![MIT License][license-shield]][license-url]
@@ -23,7 +26,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot](https://raviikmr.github.io)
+[![Product Name Screen Shot][product-screenshot]](https://raviikmr.github.io)
 
 A simple to-do list app made with flutter.
 
