@@ -75,9 +75,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Ravi - [@RaviiKmr](https://twitter.com/RaviiKmr)
+Ravi - [@RaviiKmr](https://twitter.com/iravikds)
 
-Project Link: [https://github.com/RaviiKmr/FlutterTodoApp](https://github.com/RaviiKmr/FlutterTodoApp)
+Project Link: [https://github.com/iravikds/FlutterTodoApp](https://github.com/iravikds/FlutterTodoApp)
 
 
 
