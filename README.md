@@ -75,7 +75,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Ravi - [@RaviiKmr](https://twitter.com/iravikds)
+Ravi - [@iravikds](https://twitter.com/iravikds)
 
 Project Link: [https://github.com/iravikds/FlutterTodoApp](https://github.com/iravikds/FlutterTodoApp)
 
@@ -92,4 +92,4 @@ Project Link: [https://github.com/iravikds/FlutterTodoApp](https://github.com/ir
 [contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
 [license-shield]: https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square
 [license-url]: https://choosealicense.com/licenses/mit
-[product-screenshot]: https://github.com/RaviiKmr/FlutterTodoApp/raw/master/screenshots/todo_screenshot.png
+[product-screenshot]: https://github.com/iravikds/FlutterTodoApp/raw/master/screenshots/todo_screenshot.png
